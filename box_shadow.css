@@ -1,0 +1,13 @@
+.a{
+	height: 180px;
+	width: 165px;
+	background-color: purple;
+	margin: 20px;
+	box-shadow: 3px 3px 3px yellow;
+}
+div{
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}

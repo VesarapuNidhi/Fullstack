@@ -1,0 +1,134 @@
+.a{
+	height: 800px;
+	width: 600px;
+	background-color: lightgrey;
+}
+.b{
+	height: 30px;
+	width: 597px;
+	background-color: whitesmoke;
+	margin-top: 4px;
+	padding-top: 15px;
+	border: 2px solid whitesmoke;
+}
+.c{
+	height: 350px;
+	width: 600px;
+	background-color: lightgrey;
+	margin-top: 15px;
+}
+.d{
+	height: 650px;
+	width: 250px;
+	background-color: whitesmoke;
+	float: left;
+	border: 2px solid whitesmoke;
+	margin: 20px;
+	box-shadow: 2px 3px 2px whitesmoke;
+	border-radius: 25px;
+}
+.e{
+	height: 425px;
+	width: 300px;
+	background-color: lightgrey;
+	float: right;
+}
+.f{
+	height: 260px;
+	width: 250px;
+	background-color: whitesmoke;
+	border: 2px solid whitesmoke;
+	margin: 7px;
+	box-shadow: 2px 3px 2px whitesmoke;
+	border-radius: 25px;
+}
+.g{
+	height: 260px;
+	width: 250px;
+	background-color: whitesmoke;
+	border: 2px solid whitesmoke;
+	margin: 15px;
+	box-shadow: 2px 3px 2px whitesmoke;
+	border-radius: 25px;
+}
+.h{
+	height: 20px;
+	width: 60px;
+	border: 2px solid darkblue;
+	border-radius: 50px;
+	background-color: darkblue;
+	color: whitesmoke;
+}
+.i{
+	height: 3px;
+	width: 225px;
+	border: 2px solid red;
+	border-radius: 50px;
+	background-color: red;
+}
+.j{
+	height: 3px;
+	width: 225px;
+	border: 2px solid green;
+	border-radius: 50px;
+	background-color: green;
+}
+.k{
+	height: 3px;
+	width: 225px;
+	border: 2px solid deepskyblue;
+	border-radius: 50px;
+	background-color: deepskyblue;
+}
+.l{
+	height: 15px;
+	width: 60px;
+	border: 2px solid darkblue;
+	border-radius: 50px;
+	background-color: darkblue;
+	color: whitesmoke;
+	float: left;
+	margin: 5px;
+	}
+.m{
+	height: 15px;
+	width: 60px;
+	border: 2px solid green;
+	border-radius: 50px;
+	background-color: green;
+	color: whitesmoke;
+	float: left;
+	margin: 5px;
+	}
+.n{
+	height: 15px;
+	width: 60px;
+	border: 2px solid red;
+	border-radius: 50px;
+	background-color: red;
+	color: whitesmoke;
+	float: left;
+	margin: 5px;
+	}
+.x{
+	font-size: 25px;
+	color: dimgrey;
+}
+.w{
+	margin:10px;
+	height:40px;
+	width: 75px;
+	border-radius:5px;
+	background-color: blue;
+	color: white;
+	font-size: 20px;
+}
+.o{
+	margin:10px;
+	height:40px;
+	width: 95px;
+	border-radius:5px;
+	background-color: blue;
+	color: white;
+	font-size: 20px;
+}

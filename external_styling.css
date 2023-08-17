@@ -1,0 +1,55 @@
+.external{
+	border-color: greenyellow;
+	background-color: darkgreen;
+	color: silver;
+	font-style: italic;
+	font-size: 30px;
+	text-align: center;
+}
+#abc{
+	color: cornsilk;
+	text-align: center;
+	font-size: 30px;
+	font-style: oblique;
+}
+#def{
+	color: hotpink;
+}
+p{
+	color: red;
+	font-size: 30px;
+	font-weight: bolder;
+	font-variant: small-caps;
+}
+div{
+	height: 60px;
+	width: 40px;
+	background-color: darkgreen;
+}
+a{
+	color: brown;
+}
+body
+{
+	background-color: skyblue;
+}
+*{
+	font-family: cursive;
+	font-size: 40px;
+	color:;
+}
+input[type="text"]{
+	color: orangered;
+}
+input[type="number"]{
+	color: blueviolet;
+}
+input[type="password"]{
+	color: yellowgreen;
+}
+input[type]{
+	color: purple;
+}
+a[href]{
+	background-color: yellow;
+}
